@@ -292,7 +292,7 @@
 
   <url>
     <loc>https://www.komeiji-shiki.top/</loc>
-    <lastmod>2025-08-25</lastmod>
+    <lastmod>2025-08-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -300,28 +300,28 @@
   
   <url>
     <loc>https://www.komeiji-shiki.top/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2025-08-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.komeiji-shiki.top/tags/%E5%8E%86%E5%8F%B2/</loc>
-    <lastmod>2025-08-25</lastmod>
+    <lastmod>2025-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.komeiji-shiki.top/tags/%E7%A7%91%E5%B9%BB/</loc>
-    <lastmod>2025-08-25</lastmod>
+    <lastmod>2025-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.komeiji-shiki.top/tags/Touhou/</loc>
-    <lastmod>2025-08-25</lastmod>
+    <lastmod>2025-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.komeiji-shiki.top/tags/%E5%8E%86%E5%8F%B2/</loc>
+    <lastmod>2025-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -330,28 +330,28 @@
   
   <url>
     <loc>https://www.komeiji-shiki.top/categories/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2025-08-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.komeiji-shiki.top/categories/%E5%8E%86%E5%8F%B2/</loc>
-    <lastmod>2025-08-25</lastmod>
+    <lastmod>2025-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.komeiji-shiki.top/categories/%E7%A7%91%E5%B9%BB/</loc>
-    <lastmod>2025-08-25</lastmod>
+    <lastmod>2025-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.komeiji-shiki.top/categories/Touhou/</loc>
-    <lastmod>2025-08-25</lastmod>
+    <lastmod>2025-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.komeiji-shiki.top/categories/%E5%8E%86%E5%8F%B2/</loc>
+    <lastmod>2025-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
