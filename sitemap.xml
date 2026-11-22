@@ -281,20 +281,6 @@
 
   
   <url>
-    <loc>https://www.komeiji-shiki.top/tags/Touhou/</loc>
-    <lastmod>2026-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.komeiji-shiki.top/tags/%E7%A7%91%E5%B9%BB/</loc>
-    <lastmod>2026-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.komeiji-shiki.top/tags/AI/</loc>
     <lastmod>2026-11-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -303,6 +289,20 @@
   
   <url>
     <loc>https://www.komeiji-shiki.top/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.komeiji-shiki.top/tags/Touhou/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.komeiji-shiki.top/tags/%E7%A7%91%E5%B9%BB/</loc>
     <lastmod>2026-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -318,6 +318,13 @@
 
   
   <url>
+    <loc>https://www.komeiji-shiki.top/categories/AI/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.komeiji-shiki.top/categories/Touhou/</loc>
     <lastmod>2026-11-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -326,13 +333,6 @@
   
   <url>
     <loc>https://www.komeiji-shiki.top/categories/%E7%A7%91%E5%B9%BB/</loc>
-    <lastmod>2026-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.komeiji-shiki.top/categories/AI/</loc>
     <lastmod>2026-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
