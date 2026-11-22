@@ -1,10 +1,9 @@
+/* 原来叠在渐变上的 imgtp 图片已失效（图床停运），只保留渐变 */
 #web_bg {
-    background-image: url("https://img2.imgtp.com/2024/03/30/54JUlozk.png"),
-        linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35))
+    background-image: linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35))
 }
 #post_bg {
-    background-image: url("https://img2.imgtp.com/2024/03/30/54JUlozk.png"),
-        linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35))
+    background-image: linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35))
 }
 /* 侧边栏个人信息卡片动态渐变色 */
 #aside-content>.card-widget.card-info{
